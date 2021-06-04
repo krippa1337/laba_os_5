@@ -1,0 +1,34 @@
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.exe.config
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.exe
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.pdb
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.exe
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.exe.config
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.pdb
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.exe.config
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.exe
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\bin\Debug\Pract5.pdb
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.exe
+C:\Users\king\source\repos\Operating-system\Laba-5-bezosheredi\Pract5\Pract5\obj\Debug\Pract5.pdb
+E:\ОС\LABA5\Pract5\bin\Debug\Pract5.exe.config
+E:\ОС\LABA5\Pract5\bin\Debug\Pract5.exe
+E:\ОС\LABA5\Pract5\bin\Debug\Pract5.pdb
+E:\ОС\LABA5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+E:\ОС\LABA5\Pract5\obj\Debug\Pract5.exe
+E:\ОС\LABA5\Pract5\obj\Debug\Pract5.pdb
+C:\Users\tribal\Desktop\LABA5\Pract5\bin\Debug\Pract5.exe.config
+C:\Users\tribal\Desktop\LABA5\Pract5\bin\Debug\Pract5.exe
+C:\Users\tribal\Desktop\LABA5\Pract5\bin\Debug\Pract5.pdb
+C:\Users\tribal\Desktop\LABA5\Pract5\obj\Debug\Pract5.csproj.AssemblyReference.cache
+C:\Users\tribal\Desktop\LABA5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+C:\Users\tribal\Desktop\LABA5\Pract5\obj\Debug\Pract5.exe
+C:\Users\tribal\Desktop\LABA5\Pract5\obj\Debug\Pract5.pdb
